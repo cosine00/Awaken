@@ -1,4 +1,4 @@
-baseURL = "https://koobai.com"
+baseURL = "https://ex.hux.ink"
 languageCode = "zh-cn"
 theme = "jingzhe_2"
 themesDir = "themes"
@@ -38,5 +38,5 @@ hasCJKLanguage = true
   [[menu.main]]
     identifier = "sport"
     name = "骑行"
-    url = "https://sport.koobai.com/"
+    url = "https://workout.hux.ink/"
     weight = 3
