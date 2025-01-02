@@ -5,7 +5,7 @@ var memosData = {
   }
   
 var bbMemo = {
-  memos: 'https://memos.koobai.com/',
+  memos: 'https://i.hux.ink:5233/',
   limit: '8',
   creatorId: '1',
   domId: '#bber',
